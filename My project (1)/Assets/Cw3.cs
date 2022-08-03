@@ -26,7 +26,7 @@ public class Cw3 : MonoBehaviour
             print("The " + villainName + " is stronger");
         }
 
-        print(playerSpeed);
+        print(playerSpeed2);
         SetSpeed(2.5f);
         print(playerSpeed2);
 
